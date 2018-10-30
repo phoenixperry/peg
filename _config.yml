@@ -4,7 +4,7 @@ subtitle: by PEG
 email: contact@phoenixperry.com
 description: Experimental Game Design and writing
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://phoenixperry.github.io/peg/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: Phoenix Perry
 street_address: Goldsmiths Unviersity
 city: London
@@ -17,13 +17,13 @@ phone:
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # Build settings
 markdown: kramdown
