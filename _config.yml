@@ -1,17 +1,17 @@
 # Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
-baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: Playful Experiences Group
+subtitle: by PEG
+email: contact@phoenixperry.com
+description: Experimental Game Design and writing
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://phoenixperry.github.io/peg/" # the base hostname & protocol for your site
+author: Phoenix Perry
+street_address: Goldsmiths Unviersity
+city: London
+state: London
+zip_code: SE13
+country: UK
+phone:
 
 # Social settings
 500px_url:
